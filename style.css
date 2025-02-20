@@ -29,6 +29,7 @@ input{border:0;
 }
 input[type=text] {
     border:none;
+    color:white;
     background-color:transparent;
     border-bottom:1px solid gray;
     width: 100%;
